@@ -66,7 +66,6 @@ button {
   background-color: hsl(225, 75%, 52%);
   color: #fff;
   border: none;
-  box-shadow: 0, 60px, 0 green;
 }
 .confirmacao, .plano, p {
 color: hsl(224, 23%, 55%);
